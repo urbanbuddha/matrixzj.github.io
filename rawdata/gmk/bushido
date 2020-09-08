@@ -6,6 +6,9 @@
     "profile": "1-1-2-3-4-4",
     "time": "2020-04-03 ~ 2020-05-01",
     "colorcodes":[
+        "|Alpha|RAL 270 40 15|Pantone 178C",
+        "|Modifiers|RAL 270 40 15|GMK WS1",
+        "|Accent|Pantone 178C|RAL 270 40 15"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105425.0",
